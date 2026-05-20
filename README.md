@@ -55,6 +55,3 @@ All clinical decisions associated with the observational datasets were performed
 Bishal Das  
 Theoretical Physicist  
 University of Nottingham, UK
-Bishal Das  
-Theoretical Physicist  
-University of Nottingham, UK
