@@ -50,6 +50,14 @@ All clinical decisions associated with the observational datasets were performed
 
 ---
 
+## DOI
+
+Paper DOI: https://doi.org/10.5281/zenodo.20301484
+
+Software DOI: https://doi.org/10.5281/zenodo.20302031
+
+---
+
 ## Author
 
 Bishal Das  
